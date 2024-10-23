@@ -1,0 +1,931 @@
+2024-10-17 00:00:22,693 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 00:00:22,743 - INFO - Database connection established.
+2024-10-17 00:00:22,816 - INFO - Inserted 97 records for location 4000125 (batch 1).
+2024-10-17 00:00:55,121 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 00:00:55,170 - INFO - Database connection established.
+2024-10-17 00:00:55,231 - INFO - Inserted 85 records for location 4000126 (batch 1).
+2024-10-17 00:01:32,818 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 00:01:32,867 - INFO - Database connection established.
+2024-10-17 00:01:32,944 - INFO - Inserted 104 records for location 4000127 (batch 1).
+2024-10-17 00:02:09,682 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 00:02:09,732 - INFO - Database connection established.
+2024-10-17 00:02:09,802 - INFO - Inserted 112 records for location 4000128 (batch 1).
+2024-10-17 00:03:34,363 - INFO - Database connection established.
+2024-10-17 00:03:34,479 - INFO - Inserted 300 records for location 4000129 (batch 1).
+2024-10-17 00:03:45,262 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 00:03:45,310 - INFO - Database connection established.
+2024-10-17 00:03:45,352 - INFO - Inserted 20 records for location 4000130 (batch 1).
+2024-10-17 00:05:11,723 - INFO - Database connection established.
+2024-10-17 00:05:11,845 - INFO - Inserted 300 records for location 4000131 (batch 1).
+2024-10-17 00:05:33,381 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 00:05:33,429 - INFO - Database connection established.
+2024-10-17 00:05:33,487 - INFO - Inserted 58 records for location 4000132 (batch 1).
+2024-10-17 00:06:58,313 - INFO - Database connection established.
+2024-10-17 00:06:58,434 - INFO - Inserted 300 records for location 4000133 (batch 1).
+2024-10-17 00:07:25,395 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 00:07:25,443 - INFO - Database connection established.
+2024-10-17 00:07:25,503 - INFO - Inserted 68 records for location 4000134 (batch 1).
+2024-10-17 00:08:23,727 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 00:08:23,775 - INFO - Database connection established.
+2024-10-17 00:08:23,858 - INFO - Inserted 182 records for location 4000135 (batch 1).
+2024-10-17 00:09:48,287 - INFO - Database connection established.
+2024-10-17 00:09:48,402 - INFO - Inserted 300 records for location 4000136 (batch 1).
+2024-10-17 00:11:14,179 - INFO - Database connection established.
+2024-10-17 00:11:14,302 - INFO - Inserted 300 records for location 4000137 (batch 1).
+2024-10-17 00:11:30,245 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:11:30,294 - INFO - Database connection established.
+2024-10-17 00:11:30,344 - INFO - Inserted 39 records for location 4000138 (batch 1).
+2024-10-17 00:12:55,254 - INFO - Database connection established.
+2024-10-17 00:12:55,374 - INFO - Inserted 300 records for location 4000139 (batch 1).
+2024-10-17 00:13:06,263 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 00:13:06,311 - INFO - Database connection established.
+2024-10-17 00:13:06,349 - INFO - Inserted 3 records for location 4000140 (batch 1).
+2024-10-17 00:14:30,711 - INFO - Database connection established.
+2024-10-17 00:14:30,837 - INFO - Inserted 300 records for location 4000141 (batch 1).
+2024-10-17 00:15:02,439 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 00:15:02,466 - INFO - Database connection established.
+2024-10-17 00:15:02,524 - INFO - Inserted 85 records for location 4000142 (batch 1).
+2024-10-17 00:15:24,057 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 00:15:24,106 - INFO - Database connection established.
+2024-10-17 00:15:24,160 - INFO - Inserted 52 records for location 4000143 (batch 1).
+2024-10-17 00:15:40,075 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:15:40,115 - INFO - Database connection established.
+2024-10-17 00:15:40,142 - INFO - Inserted 31 records for location 4000144 (batch 1).
+2024-10-17 00:16:39,488 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 00:16:39,538 - INFO - Database connection established.
+2024-10-17 00:16:39,644 - INFO - Inserted 200 records for location 4000145 (batch 1).
+2024-10-17 00:18:03,963 - INFO - Database connection established.
+2024-10-17 00:18:04,055 - INFO - Inserted 300 records for location 4000146 (batch 1).
+2024-10-17 00:18:19,981 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:18:20,030 - INFO - Database connection established.
+2024-10-17 00:18:20,077 - INFO - Inserted 31 records for location 4000147 (batch 1).
+2024-10-17 00:19:45,699 - INFO - Database connection established.
+2024-10-17 00:19:45,821 - INFO - Inserted 300 records for location 4000148 (batch 1).
+2024-10-17 00:21:11,115 - INFO - Database connection established.
+2024-10-17 00:21:11,234 - INFO - Inserted 300 records for location 4000149 (batch 1).
+2024-10-17 00:22:36,126 - INFO - Database connection established.
+2024-10-17 00:22:36,241 - INFO - Inserted 300 records for location 4000150 (batch 1).
+2024-10-17 00:24:01,608 - INFO - Database connection established.
+2024-10-17 00:24:01,731 - INFO - Inserted 300 records for location 4000151 (batch 1).
+2024-10-17 00:25:26,627 - INFO - Database connection established.
+2024-10-17 00:25:26,745 - INFO - Inserted 300 records for location 4000152 (batch 1).
+2024-10-17 00:26:52,571 - INFO - Database connection established.
+2024-10-17 00:26:52,693 - INFO - Inserted 300 records for location 4000153 (batch 1).
+2024-10-17 00:28:18,062 - INFO - Database connection established.
+2024-10-17 00:28:18,176 - INFO - Inserted 300 records for location 4000154 (batch 1).
+2024-10-17 00:29:43,259 - INFO - Database connection established.
+2024-10-17 00:29:43,375 - INFO - Inserted 300 records for location 4000155 (batch 1).
+2024-10-17 00:30:04,945 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 00:30:04,972 - INFO - Database connection established.
+2024-10-17 00:30:05,004 - INFO - Inserted 41 records for location 4000156 (batch 1).
+2024-10-17 00:30:15,637 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 00:30:15,685 - INFO - Database connection established.
+2024-10-17 00:30:15,729 - INFO - Inserted 17 records for location 4000157 (batch 1).
+2024-10-17 00:30:52,855 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 00:30:52,903 - INFO - Database connection established.
+2024-10-17 00:30:52,974 - INFO - Inserted 108 records for location 4000158 (batch 1).
+2024-10-17 00:32:19,089 - INFO - Database connection established.
+2024-10-17 00:32:19,211 - INFO - Inserted 300 records for location 4000159 (batch 1).
+2024-10-17 00:32:30,739 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 00:32:30,787 - INFO - Database connection established.
+2024-10-17 00:32:30,824 - INFO - Inserted 13 records for location 4000160 (batch 1).
+2024-10-17 00:32:57,343 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 00:32:57,392 - INFO - Database connection established.
+2024-10-17 00:32:57,447 - INFO - Inserted 61 records for location 4000161 (batch 1).
+2024-10-17 00:33:23,798 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 00:33:23,847 - INFO - Database connection established.
+2024-10-17 00:33:23,903 - INFO - Inserted 65 records for location 4000162 (batch 1).
+2024-10-17 00:33:39,806 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:33:39,855 - INFO - Database connection established.
+2024-10-17 00:33:39,897 - INFO - Inserted 28 records for location 4000163 (batch 1).
+2024-10-17 00:33:50,683 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 00:33:50,731 - INFO - Database connection established.
+2024-10-17 00:33:50,773 - INFO - Inserted 20 records for location 4000164 (batch 1).
+2024-10-17 00:34:28,208 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 00:34:28,257 - INFO - Database connection established.
+2024-10-17 00:34:28,323 - INFO - Inserted 104 records for location 4000165 (batch 1).
+2024-10-17 00:35:26,180 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 00:35:26,231 - INFO - Database connection established.
+2024-10-17 00:35:26,322 - INFO - Inserted 182 records for location 4000166 (batch 1).
+2024-10-17 00:36:51,746 - INFO - Database connection established.
+2024-10-17 00:36:51,865 - INFO - Inserted 300 records for location 4000167 (batch 1).
+2024-10-17 00:37:18,789 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 00:37:18,838 - INFO - Database connection established.
+2024-10-17 00:37:18,894 - INFO - Inserted 67 records for location 4000168 (batch 1).
+2024-10-17 00:37:34,833 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:37:34,879 - INFO - Database connection established.
+2024-10-17 00:37:34,927 - INFO - Inserted 38 records for location 4000169 (batch 1).
+2024-10-17 00:37:50,974 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:37:51,012 - INFO - Database connection established.
+2024-10-17 00:37:51,043 - INFO - Inserted 37 records for location 4000170 (batch 1).
+2024-10-17 00:38:02,170 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 00:38:02,217 - INFO - Database connection established.
+2024-10-17 00:38:02,255 - INFO - Inserted 20 records for location 4000171 (batch 1).
+2024-10-17 00:39:26,914 - INFO - Database connection established.
+2024-10-17 00:39:27,035 - INFO - Inserted 300 records for location 4000172 (batch 1).
+2024-10-17 00:39:42,986 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:39:43,035 - INFO - Database connection established.
+2024-10-17 00:39:43,076 - INFO - Inserted 29 records for location 4000173 (batch 1).
+2024-10-17 00:40:20,366 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 00:40:20,415 - INFO - Database connection established.
+2024-10-17 00:40:20,484 - INFO - Inserted 110 records for location 4000174 (batch 1).
+2024-10-17 00:40:25,645 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 00:40:25,646 - WARNING - No data to insert for location 4000175.
+2024-10-17 00:41:07,957 - INFO - No more data found on page 7. Stopping search.
+2024-10-17 00:41:08,006 - INFO - Database connection established.
+2024-10-17 00:41:08,082 - INFO - Inserted 127 records for location 4000176 (batch 1).
+2024-10-17 00:42:32,838 - INFO - Database connection established.
+2024-10-17 00:42:32,959 - INFO - Inserted 300 records for location 4000177 (batch 1).
+2024-10-17 00:42:49,011 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 00:42:49,059 - INFO - Database connection established.
+2024-10-17 00:42:49,102 - INFO - Inserted 34 records for location 4000178 (batch 1).
+2024-10-17 00:44:14,615 - INFO - Database connection established.
+2024-10-17 00:44:14,745 - INFO - Inserted 300 records for location 4000179 (batch 1).
+2024-10-17 00:45:39,559 - INFO - Database connection established.
+2024-10-17 00:45:39,691 - INFO - Inserted 300 records for location 4000180 (batch 1).
+2024-10-17 00:47:04,925 - INFO - Database connection established.
+2024-10-17 00:47:05,051 - INFO - Inserted 300 records for location 4000181 (batch 1).
+2024-10-17 00:48:29,508 - INFO - Database connection established.
+2024-10-17 00:48:29,629 - INFO - Inserted 300 records for location 4000182 (batch 1).
+2024-10-17 00:49:54,181 - INFO - Database connection established.
+2024-10-17 00:49:54,299 - INFO - Inserted 300 records for location 4000183 (batch 1).
+2024-10-17 00:51:19,518 - INFO - Database connection established.
+2024-10-17 00:51:19,641 - INFO - Inserted 300 records for location 4000184 (batch 1).
+2024-10-17 00:52:44,153 - INFO - Database connection established.
+2024-10-17 00:52:44,275 - INFO - Inserted 300 records for location 4000185 (batch 1).
+2024-10-17 00:54:09,947 - INFO - Database connection established.
+2024-10-17 00:54:10,086 - INFO - Inserted 300 records for location 4000186 (batch 1).
+2024-10-17 00:55:36,430 - INFO - Database connection established.
+2024-10-17 00:55:36,569 - INFO - Inserted 300 records for location 4000187 (batch 1).
+2024-10-17 00:57:01,352 - INFO - Database connection established.
+2024-10-17 00:57:01,476 - INFO - Inserted 300 records for location 4000188 (batch 1).
+2024-10-17 00:58:26,130 - INFO - Database connection established.
+2024-10-17 00:58:26,259 - INFO - Inserted 300 records for location 4000189 (batch 1).
+2024-10-17 00:59:51,954 - INFO - Database connection established.
+2024-10-17 00:59:52,079 - INFO - Inserted 300 records for location 4000190 (batch 1).
+2024-10-17 01:01:19,141 - INFO - Database connection established.
+2024-10-17 01:01:19,264 - INFO - Inserted 300 records for location 4000191 (batch 1).
+2024-10-17 01:02:44,995 - INFO - Database connection established.
+2024-10-17 01:02:45,125 - INFO - Inserted 300 records for location 4000192 (batch 1).
+2024-10-17 01:04:10,799 - INFO - Database connection established.
+2024-10-17 01:04:10,936 - INFO - Inserted 300 records for location 4000193 (batch 1).
+2024-10-17 01:05:36,874 - INFO - Database connection established.
+2024-10-17 01:05:36,992 - INFO - Inserted 300 records for location 4000194 (batch 1).
+2024-10-17 01:07:02,011 - INFO - Database connection established.
+2024-10-17 01:07:02,104 - INFO - Inserted 300 records for location 4000195 (batch 1).
+2024-10-17 01:08:27,522 - INFO - Database connection established.
+2024-10-17 01:08:27,640 - INFO - Inserted 300 records for location 4000196 (batch 1).
+2024-10-17 01:09:51,971 - INFO - Database connection established.
+2024-10-17 01:09:52,092 - INFO - Inserted 300 records for location 4000197 (batch 1).
+2024-10-17 01:11:17,518 - INFO - Database connection established.
+2024-10-17 01:11:17,650 - INFO - Inserted 300 records for location 4000198 (batch 1).
+2024-10-17 09:30:03,495 - INFO - Starting the script...
+2024-10-17 09:31:24,530 - INFO - Database connection established.
+2024-10-17 09:31:24,684 - INFO - Inserted 300 records for location 4000001 (batch 1).
+2024-10-17 09:32:51,875 - INFO - Database connection established.
+2024-10-17 09:32:51,996 - INFO - Inserted 300 records for location 4000002 (batch 1).
+2024-10-17 09:34:18,771 - INFO - Database connection established.
+2024-10-17 09:34:18,926 - INFO - Inserted 300 records for location 4000003 (batch 1).
+2024-10-17 09:35:46,346 - INFO - Database connection established.
+2024-10-17 09:35:46,487 - INFO - Inserted 300 records for location 4000004 (batch 1).
+2024-10-17 09:37:12,113 - INFO - Database connection established.
+2024-10-17 09:37:12,246 - INFO - Inserted 300 records for location 4000005 (batch 1).
+2024-10-17 09:38:37,855 - INFO - Database connection established.
+2024-10-17 09:38:37,986 - INFO - Inserted 300 records for location 4000006 (batch 1).
+2024-10-17 09:40:03,355 - INFO - Database connection established.
+2024-10-17 09:40:03,472 - INFO - Inserted 300 records for location 4000007 (batch 1).
+2024-10-17 09:41:29,911 - INFO - Database connection established.
+2024-10-17 09:41:30,058 - INFO - Inserted 300 records for location 4000008 (batch 1).
+2024-10-17 09:42:55,258 - INFO - Database connection established.
+2024-10-17 09:42:55,372 - INFO - Inserted 300 records for location 4000009 (batch 1).
+2024-10-17 09:43:00,839 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 09:43:00,840 - WARNING - No data to insert for location 4000010.
+2024-10-17 09:44:26,538 - INFO - Database connection established.
+2024-10-17 09:44:26,656 - INFO - Inserted 300 records for location 4000011 (batch 1).
+2024-10-17 09:45:52,890 - INFO - Database connection established.
+2024-10-17 09:45:53,013 - INFO - Inserted 300 records for location 4000012 (batch 1).
+2024-10-17 09:47:19,534 - INFO - Database connection established.
+2024-10-17 09:47:19,663 - INFO - Inserted 300 records for location 4000013 (batch 1).
+2024-10-17 09:48:47,623 - INFO - Database connection established.
+2024-10-17 09:48:47,752 - INFO - Inserted 300 records for location 4000014 (batch 1).
+2024-10-17 09:50:12,839 - INFO - Database connection established.
+2024-10-17 09:50:12,965 - INFO - Inserted 300 records for location 4000015 (batch 1).
+2024-10-17 09:51:38,781 - INFO - Database connection established.
+2024-10-17 09:51:38,899 - INFO - Inserted 300 records for location 4000016 (batch 1).
+2024-10-17 09:53:04,245 - INFO - Database connection established.
+2024-10-17 09:53:04,391 - INFO - Inserted 300 records for location 4000017 (batch 1).
+2024-10-17 09:54:29,509 - INFO - Database connection established.
+2024-10-17 09:54:29,634 - INFO - Inserted 300 records for location 4000018 (batch 1).
+2024-10-17 09:55:55,779 - INFO - Database connection established.
+2024-10-17 09:55:55,904 - INFO - Inserted 300 records for location 4000019 (batch 1).
+2024-10-17 09:57:25,339 - INFO - Database connection established.
+2024-10-17 09:57:25,496 - INFO - Inserted 300 records for location 4000020 (batch 1).
+2024-10-17 09:58:52,141 - INFO - Database connection established.
+2024-10-17 09:58:52,298 - INFO - Inserted 300 records for location 4000021 (batch 1).
+2024-10-17 10:00:19,213 - INFO - Database connection established.
+2024-10-17 10:00:19,334 - INFO - Inserted 300 records for location 4000022 (batch 1).
+2024-10-17 10:01:44,686 - INFO - Database connection established.
+2024-10-17 10:01:44,797 - INFO - Inserted 300 records for location 4000023 (batch 1).
+2024-10-17 10:03:11,869 - INFO - Database connection established.
+2024-10-17 10:03:12,031 - INFO - Inserted 300 records for location 4000024 (batch 1).
+2024-10-17 10:04:38,081 - INFO - Database connection established.
+2024-10-17 10:04:38,176 - INFO - Inserted 300 records for location 4000025 (batch 1).
+2024-10-17 10:06:03,840 - INFO - Database connection established.
+2024-10-17 10:06:03,989 - INFO - Inserted 300 records for location 4000026 (batch 1).
+2024-10-17 10:07:31,770 - INFO - Database connection established.
+2024-10-17 10:07:31,927 - INFO - Inserted 300 records for location 4000027 (batch 1).
+2024-10-17 10:08:58,407 - INFO - Database connection established.
+2024-10-17 10:08:58,555 - INFO - Inserted 300 records for location 4000028 (batch 1).
+2024-10-17 10:10:25,478 - INFO - Database connection established.
+2024-10-17 10:10:25,638 - INFO - Inserted 300 records for location 4000029 (batch 1).
+2024-10-17 10:11:52,217 - INFO - Database connection established.
+2024-10-17 10:11:52,373 - INFO - Inserted 300 records for location 4000030 (batch 1).
+2024-10-17 10:13:19,785 - INFO - Database connection established.
+2024-10-17 10:13:19,948 - INFO - Inserted 300 records for location 4000031 (batch 1).
+2024-10-17 10:14:48,357 - INFO - Database connection established.
+2024-10-17 10:14:48,505 - INFO - Inserted 300 records for location 4000032 (batch 1).
+2024-10-17 10:16:13,020 - INFO - Database connection established.
+2024-10-17 10:16:13,143 - INFO - Inserted 300 records for location 4000033 (batch 1).
+2024-10-17 10:17:39,022 - INFO - Database connection established.
+2024-10-17 10:17:39,139 - INFO - Inserted 300 records for location 4000034 (batch 1).
+2024-10-17 10:19:05,240 - INFO - Database connection established.
+2024-10-17 10:19:05,357 - INFO - Inserted 300 records for location 4000035 (batch 1).
+2024-10-17 10:20:31,911 - INFO - Database connection established.
+2024-10-17 10:20:32,036 - INFO - Inserted 300 records for location 4000036 (batch 1).
+2024-10-17 10:21:56,666 - INFO - Database connection established.
+2024-10-17 10:21:56,789 - INFO - Inserted 300 records for location 4000037 (batch 1).
+2024-10-17 10:23:22,208 - INFO - Database connection established.
+2024-10-17 10:23:22,323 - INFO - Inserted 300 records for location 4000038 (batch 1).
+2024-10-17 10:24:48,285 - INFO - Database connection established.
+2024-10-17 10:24:48,404 - INFO - Inserted 300 records for location 4000039 (batch 1).
+2024-10-17 10:26:15,028 - INFO - Database connection established.
+2024-10-17 10:26:15,152 - INFO - Inserted 300 records for location 4000040 (batch 1).
+2024-10-17 10:27:42,916 - INFO - Database connection established.
+2024-10-17 10:27:43,038 - INFO - Inserted 300 records for location 4000041 (batch 1).
+2024-10-17 10:29:08,162 - INFO - Database connection established.
+2024-10-17 10:29:08,281 - INFO - Inserted 300 records for location 4000042 (batch 1).
+2024-10-17 10:30:35,831 - INFO - Database connection established.
+2024-10-17 10:30:35,949 - INFO - Inserted 300 records for location 4000043 (batch 1).
+2024-10-17 10:32:04,945 - INFO - Database connection established.
+2024-10-17 10:32:05,067 - INFO - Inserted 300 records for location 4000044 (batch 1).
+2024-10-17 10:33:31,853 - INFO - Database connection established.
+2024-10-17 10:33:31,972 - INFO - Inserted 300 records for location 4000045 (batch 1).
+2024-10-17 10:35:04,282 - INFO - Database connection established.
+2024-10-17 10:35:04,400 - INFO - Inserted 300 records for location 4000046 (batch 1).
+2024-10-17 10:36:37,717 - INFO - Database connection established.
+2024-10-17 10:36:37,836 - INFO - Inserted 300 records for location 4000047 (batch 1).
+2024-10-17 10:38:08,822 - INFO - Database connection established.
+2024-10-17 10:38:08,939 - INFO - Inserted 300 records for location 4000048 (batch 1).
+2024-10-17 10:39:43,173 - INFO - Database connection established.
+2024-10-17 10:39:43,293 - INFO - Inserted 300 records for location 4000049 (batch 1).
+2024-10-17 10:41:13,875 - INFO - Database connection established.
+2024-10-17 10:41:13,987 - INFO - Inserted 300 records for location 4000050 (batch 1).
+2024-10-17 10:42:47,007 - INFO - Database connection established.
+2024-10-17 10:42:47,126 - INFO - Inserted 300 records for location 4000051 (batch 1).
+2024-10-17 10:44:19,207 - INFO - Database connection established.
+2024-10-17 10:44:19,330 - INFO - Inserted 300 records for location 4000052 (batch 1).
+2024-10-17 10:45:51,163 - INFO - Database connection established.
+2024-10-17 10:45:51,279 - INFO - Inserted 300 records for location 4000053 (batch 1).
+2024-10-17 10:47:02,423 - INFO - No more data found on page 11. Stopping search.
+2024-10-17 10:47:02,473 - INFO - Database connection established.
+2024-10-17 10:47:02,575 - INFO - Inserted 220 records for location 4000054 (batch 1).
+2024-10-17 10:48:38,494 - INFO - Database connection established.
+2024-10-17 10:48:38,638 - INFO - Inserted 300 records for location 4000055 (batch 1).
+2024-10-17 10:50:11,059 - INFO - Database connection established.
+2024-10-17 10:50:11,177 - INFO - Inserted 300 records for location 4000056 (batch 1).
+2024-10-17 10:51:42,023 - INFO - Database connection established.
+2024-10-17 10:51:42,145 - INFO - Inserted 300 records for location 4000057 (batch 1).
+2024-10-17 10:53:16,155 - INFO - Database connection established.
+2024-10-17 10:53:16,256 - INFO - Inserted 300 records for location 4000058 (batch 1).
+2024-10-17 10:54:43,587 - INFO - Database connection established.
+2024-10-17 10:54:43,713 - INFO - Inserted 300 records for location 4000059 (batch 1).
+2024-10-17 10:56:09,606 - INFO - Database connection established.
+2024-10-17 10:56:09,731 - INFO - Inserted 300 records for location 4000060 (batch 1).
+2024-10-17 10:57:35,253 - INFO - Database connection established.
+2024-10-17 10:57:35,369 - INFO - Inserted 300 records for location 4000061 (batch 1).
+2024-10-17 10:59:01,514 - INFO - Database connection established.
+2024-10-17 10:59:01,678 - INFO - Inserted 300 records for location 4000062 (batch 1).
+2024-10-17 11:00:27,497 - INFO - Database connection established.
+2024-10-17 11:00:27,617 - INFO - Inserted 300 records for location 4000063 (batch 1).
+2024-10-17 11:01:52,634 - INFO - Database connection established.
+2024-10-17 11:01:52,752 - INFO - Inserted 300 records for location 4000064 (batch 1).
+2024-10-17 11:03:20,566 - INFO - Database connection established.
+2024-10-17 11:03:20,688 - INFO - Inserted 300 records for location 4000065 (batch 1).
+2024-10-17 11:04:45,185 - INFO - Database connection established.
+2024-10-17 11:04:45,286 - INFO - Inserted 300 records for location 4000066 (batch 1).
+2024-10-17 11:06:10,634 - INFO - Database connection established.
+2024-10-17 11:06:10,754 - INFO - Inserted 300 records for location 4000067 (batch 1).
+2024-10-17 11:07:37,536 - INFO - Database connection established.
+2024-10-17 11:07:37,652 - INFO - Inserted 300 records for location 4000068 (batch 1).
+2024-10-17 11:09:03,077 - INFO - Database connection established.
+2024-10-17 11:09:03,195 - INFO - Inserted 300 records for location 4000069 (batch 1).
+2024-10-17 11:10:29,840 - INFO - Database connection established.
+2024-10-17 11:10:29,959 - INFO - Inserted 300 records for location 4000070 (batch 1).
+2024-10-17 11:11:59,243 - INFO - Database connection established.
+2024-10-17 11:11:59,356 - INFO - Inserted 300 records for location 4000071 (batch 1).
+2024-10-17 11:13:25,365 - INFO - Database connection established.
+2024-10-17 11:13:25,486 - INFO - Inserted 300 records for location 4000072 (batch 1).
+2024-10-17 11:14:52,609 - INFO - Database connection established.
+2024-10-17 11:14:52,751 - INFO - Inserted 300 records for location 4000073 (batch 1).
+2024-10-17 11:14:57,963 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 11:14:57,964 - WARNING - No data to insert for location 4000074.
+2024-10-17 11:16:25,642 - INFO - Database connection established.
+2024-10-17 11:16:25,766 - INFO - Inserted 300 records for location 4000075 (batch 1).
+2024-10-17 11:17:53,291 - INFO - Database connection established.
+2024-10-17 11:17:53,452 - INFO - Inserted 300 records for location 4000076 (batch 1).
+2024-10-17 11:19:17,963 - INFO - Database connection established.
+2024-10-17 11:19:18,078 - INFO - Inserted 300 records for location 4000077 (batch 1).
+2024-10-17 11:20:44,286 - INFO - Database connection established.
+2024-10-17 11:20:44,408 - INFO - Inserted 300 records for location 4000078 (batch 1).
+2024-10-17 11:22:13,127 - INFO - Database connection established.
+2024-10-17 11:22:13,280 - INFO - Inserted 300 records for location 4000079 (batch 1).
+2024-10-17 11:23:42,053 - INFO - Database connection established.
+2024-10-17 11:23:42,212 - INFO - Inserted 300 records for location 4000080 (batch 1).
+2024-10-17 11:24:19,671 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 11:24:19,719 - INFO - Database connection established.
+2024-10-17 11:24:19,780 - INFO - Inserted 110 records for location 4000081 (batch 1).
+2024-10-17 11:24:35,938 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 11:24:35,987 - INFO - Database connection established.
+2024-10-17 11:24:36,031 - INFO - Inserted 32 records for location 4000082 (batch 1).
+2024-10-17 11:26:23,954 - INFO - Database connection established.
+2024-10-17 11:26:24,064 - INFO - Inserted 300 records for location 4000083 (batch 1).
+2024-10-17 11:27:50,014 - INFO - Database connection established.
+2024-10-17 11:27:50,099 - INFO - Inserted 300 records for location 4000084 (batch 1).
+2024-10-17 11:28:00,805 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:28:00,853 - INFO - Database connection established.
+2024-10-17 11:28:00,891 - INFO - Inserted 16 records for location 4000085 (batch 1).
+2024-10-17 11:28:12,022 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:28:12,071 - INFO - Database connection established.
+2024-10-17 11:28:12,108 - INFO - Inserted 20 records for location 4000086 (batch 1).
+2024-10-17 11:29:22,094 - INFO - No more data found on page 12. Stopping search.
+2024-10-17 11:29:22,145 - INFO - Database connection established.
+2024-10-17 11:29:22,263 - INFO - Inserted 237 records for location 4000087 (batch 1).
+2024-10-17 11:29:43,665 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 11:29:43,715 - INFO - Database connection established.
+2024-10-17 11:29:43,763 - INFO - Inserted 54 records for location 4000088 (batch 1).
+2024-10-17 11:29:54,398 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:29:54,446 - INFO - Database connection established.
+2024-10-17 11:29:54,484 - INFO - Inserted 18 records for location 4000089 (batch 1).
+2024-10-17 11:30:21,235 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 11:30:21,285 - INFO - Database connection established.
+2024-10-17 11:30:21,342 - INFO - Inserted 62 records for location 4000090 (batch 1).
+2024-10-17 11:31:35,806 - INFO - No more data found on page 13. Stopping search.
+2024-10-17 11:31:35,857 - INFO - Database connection established.
+2024-10-17 11:31:35,973 - INFO - Inserted 254 records for location 4000091 (batch 1).
+2024-10-17 11:32:09,083 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 11:32:09,132 - INFO - Database connection established.
+2024-10-17 11:32:09,187 - INFO - Inserted 84 records for location 4000092 (batch 1).
+2024-10-17 11:33:34,948 - INFO - Database connection established.
+2024-10-17 11:33:35,063 - INFO - Inserted 293 records for location 4000093 (batch 1).
+2024-10-17 11:33:46,322 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:33:46,370 - INFO - Database connection established.
+2024-10-17 11:33:46,405 - INFO - Inserted 10 records for location 4000094 (batch 1).
+2024-10-17 11:34:23,599 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 11:34:23,647 - INFO - Database connection established.
+2024-10-17 11:34:23,714 - INFO - Inserted 120 records for location 4000095 (batch 1).
+2024-10-17 11:35:18,157 - INFO - No more data found on page 9. Stopping search.
+2024-10-17 11:35:18,207 - INFO - Database connection established.
+2024-10-17 11:35:18,293 - INFO - Inserted 175 records for location 4000096 (batch 1).
+2024-10-17 11:36:10,648 - INFO - No more data found on page 9. Stopping search.
+2024-10-17 11:36:10,697 - INFO - Database connection established.
+2024-10-17 11:36:10,777 - INFO - Inserted 169 records for location 4000097 (batch 1).
+2024-10-17 11:36:21,748 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:36:21,793 - INFO - Database connection established.
+2024-10-17 11:36:21,821 - INFO - Inserted 4 records for location 4000098 (batch 1).
+2024-10-17 11:37:47,992 - INFO - Database connection established.
+2024-10-17 11:37:48,111 - INFO - Inserted 300 records for location 4000099 (batch 1).
+2024-10-17 11:38:57,440 - INFO - No more data found on page 12. Stopping search.
+2024-10-17 11:38:57,489 - INFO - Database connection established.
+2024-10-17 11:38:57,598 - INFO - Inserted 226 records for location 4000100 (batch 1).
+2024-10-17 11:40:24,349 - INFO - Database connection established.
+2024-10-17 11:40:24,463 - INFO - Inserted 293 records for location 4000101 (batch 1).
+2024-10-17 11:41:50,341 - INFO - Database connection established.
+2024-10-17 11:41:50,456 - INFO - Inserted 300 records for location 4000102 (batch 1).
+2024-10-17 11:42:13,181 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 11:42:13,219 - INFO - Database connection established.
+2024-10-17 11:42:13,259 - INFO - Inserted 42 records for location 4000103 (batch 1).
+2024-10-17 11:43:28,374 - INFO - No more data found on page 13. Stopping search.
+2024-10-17 11:43:28,425 - INFO - Database connection established.
+2024-10-17 11:43:28,529 - INFO - Inserted 251 records for location 4000104 (batch 1).
+2024-10-17 11:44:53,095 - INFO - Database connection established.
+2024-10-17 11:44:53,211 - INFO - Inserted 300 records for location 4000105 (batch 1).
+2024-10-17 11:45:45,979 - INFO - No more data found on page 9. Stopping search.
+2024-10-17 11:45:46,030 - INFO - Database connection established.
+2024-10-17 11:45:46,118 - INFO - Inserted 180 records for location 4000106 (batch 1).
+2024-10-17 11:47:11,442 - INFO - Database connection established.
+2024-10-17 11:47:11,558 - INFO - Inserted 300 records for location 4000107 (batch 1).
+2024-10-17 11:47:43,317 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 11:47:43,366 - INFO - Database connection established.
+2024-10-17 11:47:43,424 - INFO - Inserted 84 records for location 4000108 (batch 1).
+2024-10-17 11:49:15,479 - INFO - Database connection established.
+2024-10-17 11:49:15,605 - INFO - Inserted 300 records for location 4000109 (batch 1).
+2024-10-17 11:49:47,178 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 11:49:47,228 - INFO - Database connection established.
+2024-10-17 11:49:47,285 - INFO - Inserted 89 records for location 4000110 (batch 1).
+2024-10-17 11:50:03,513 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 11:50:03,559 - INFO - Database connection established.
+2024-10-17 11:50:03,604 - INFO - Inserted 29 records for location 4000111 (batch 1).
+2024-10-17 11:50:35,394 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 11:50:35,443 - INFO - Database connection established.
+2024-10-17 11:50:35,502 - INFO - Inserted 96 records for location 4000112 (batch 1).
+2024-10-17 11:52:00,285 - INFO - Database connection established.
+2024-10-17 11:52:00,402 - INFO - Inserted 300 records for location 4000113 (batch 1).
+2024-10-17 11:52:11,187 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:52:11,236 - INFO - Database connection established.
+2024-10-17 11:52:11,276 - INFO - Inserted 16 records for location 4000114 (batch 1).
+2024-10-17 11:52:27,392 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 11:52:27,441 - INFO - Database connection established.
+2024-10-17 11:52:27,483 - INFO - Inserted 21 records for location 4000115 (batch 1).
+2024-10-17 11:52:43,529 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 11:52:43,575 - INFO - Database connection established.
+2024-10-17 11:52:43,616 - INFO - Inserted 21 records for location 4000116 (batch 1).
+2024-10-17 11:52:54,526 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:52:54,575 - INFO - Database connection established.
+2024-10-17 11:52:54,613 - INFO - Inserted 9 records for location 4000117 (batch 1).
+2024-10-17 11:53:05,729 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 11:53:05,778 - INFO - Database connection established.
+2024-10-17 11:53:05,821 - INFO - Inserted 19 records for location 4000118 (batch 1).
+2024-10-17 11:53:22,063 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 11:53:22,111 - INFO - Database connection established.
+2024-10-17 11:53:22,157 - INFO - Inserted 25 records for location 4000119 (batch 1).
+2024-10-17 11:53:27,348 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 11:53:27,349 - WARNING - No data to insert for location 4000120.
+2024-10-17 11:53:32,498 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 11:53:32,499 - WARNING - No data to insert for location 4000121.
+2024-10-17 11:54:58,239 - INFO - Database connection established.
+2024-10-17 11:54:58,355 - INFO - Inserted 300 records for location 4000122 (batch 1).
+2024-10-17 11:56:24,295 - INFO - Database connection established.
+2024-10-17 11:56:24,415 - INFO - Inserted 300 records for location 4000123 (batch 1).
+2024-10-17 11:57:48,671 - INFO - Database connection established.
+2024-10-17 11:57:48,789 - INFO - Inserted 300 records for location 4000124 (batch 1).
+2024-10-17 11:58:20,419 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 11:58:20,468 - INFO - Database connection established.
+2024-10-17 11:58:20,537 - INFO - Inserted 99 records for location 4000125 (batch 1).
+2024-10-17 11:58:52,557 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 11:58:52,606 - INFO - Database connection established.
+2024-10-17 11:58:52,669 - INFO - Inserted 87 records for location 4000126 (batch 1).
+2024-10-17 11:59:29,483 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 11:59:29,533 - INFO - Database connection established.
+2024-10-17 11:59:29,599 - INFO - Inserted 105 records for location 4000127 (batch 1).
+2024-10-17 12:00:06,249 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 12:00:06,283 - INFO - Database connection established.
+2024-10-17 12:00:06,341 - INFO - Inserted 112 records for location 4000128 (batch 1).
+2024-10-17 12:01:30,725 - INFO - Database connection established.
+2024-10-17 12:01:30,840 - INFO - Inserted 300 records for location 4000129 (batch 1).
+2024-10-17 12:01:41,461 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 12:01:41,508 - INFO - Database connection established.
+2024-10-17 12:01:41,550 - INFO - Inserted 20 records for location 4000130 (batch 1).
+2024-10-17 12:03:06,349 - INFO - Database connection established.
+2024-10-17 12:03:06,468 - INFO - Inserted 300 records for location 4000131 (batch 1).
+2024-10-17 12:03:27,571 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 12:03:27,620 - INFO - Database connection established.
+2024-10-17 12:03:27,678 - INFO - Inserted 60 records for location 4000132 (batch 1).
+2024-10-17 12:04:52,495 - INFO - Database connection established.
+2024-10-17 12:04:52,615 - INFO - Inserted 300 records for location 4000133 (batch 1).
+2024-10-17 12:05:19,543 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 12:05:19,593 - INFO - Database connection established.
+2024-10-17 12:05:19,651 - INFO - Inserted 69 records for location 4000134 (batch 1).
+2024-10-17 12:06:12,949 - INFO - No more data found on page 9. Stopping search.
+2024-10-17 12:06:12,997 - INFO - Database connection established.
+2024-10-17 12:06:13,082 - INFO - Inserted 176 records for location 4000135 (batch 1).
+2024-10-17 12:07:38,463 - INFO - Database connection established.
+2024-10-17 12:07:38,577 - INFO - Inserted 300 records for location 4000136 (batch 1).
+2024-10-17 12:09:03,319 - INFO - Database connection established.
+2024-10-17 12:09:03,440 - INFO - Inserted 300 records for location 4000137 (batch 1).
+2024-10-17 12:09:19,392 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:09:19,440 - INFO - Database connection established.
+2024-10-17 12:09:19,487 - INFO - Inserted 39 records for location 4000138 (batch 1).
+2024-10-17 12:10:46,302 - INFO - Database connection established.
+2024-10-17 12:10:46,428 - INFO - Inserted 300 records for location 4000139 (batch 1).
+2024-10-17 12:10:57,257 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 12:10:57,306 - INFO - Database connection established.
+2024-10-17 12:10:57,343 - INFO - Inserted 3 records for location 4000140 (batch 1).
+2024-10-17 12:12:23,532 - INFO - Database connection established.
+2024-10-17 12:12:23,658 - INFO - Inserted 300 records for location 4000141 (batch 1).
+2024-10-17 12:12:56,366 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 12:12:56,415 - INFO - Database connection established.
+2024-10-17 12:12:56,486 - INFO - Inserted 84 records for location 4000142 (batch 1).
+2024-10-17 12:13:17,961 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 12:13:18,011 - INFO - Database connection established.
+2024-10-17 12:13:18,065 - INFO - Inserted 50 records for location 4000143 (batch 1).
+2024-10-17 12:13:34,623 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:13:34,671 - INFO - Database connection established.
+2024-10-17 12:13:34,715 - INFO - Inserted 30 records for location 4000144 (batch 1).
+2024-10-17 12:14:33,296 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 12:14:33,344 - INFO - Database connection established.
+2024-10-17 12:14:33,440 - INFO - Inserted 197 records for location 4000145 (batch 1).
+2024-10-17 12:16:00,298 - INFO - Database connection established.
+2024-10-17 12:16:00,416 - INFO - Inserted 300 records for location 4000146 (batch 1).
+2024-10-17 12:16:16,263 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:16:16,312 - INFO - Database connection established.
+2024-10-17 12:16:16,358 - INFO - Inserted 29 records for location 4000147 (batch 1).
+2024-10-17 12:17:40,811 - INFO - Database connection established.
+2024-10-17 12:17:40,932 - INFO - Inserted 300 records for location 4000148 (batch 1).
+2024-10-17 12:19:06,492 - INFO - Database connection established.
+2024-10-17 12:19:06,608 - INFO - Inserted 300 records for location 4000149 (batch 1).
+2024-10-17 12:20:31,778 - INFO - Database connection established.
+2024-10-17 12:20:31,897 - INFO - Inserted 300 records for location 4000150 (batch 1).
+2024-10-17 12:21:57,693 - INFO - Database connection established.
+2024-10-17 12:21:57,817 - INFO - Inserted 300 records for location 4000151 (batch 1).
+2024-10-17 12:23:23,114 - INFO - Database connection established.
+2024-10-17 12:23:23,199 - INFO - Inserted 300 records for location 4000152 (batch 1).
+2024-10-17 12:24:47,835 - INFO - Database connection established.
+2024-10-17 12:24:47,959 - INFO - Inserted 300 records for location 4000153 (batch 1).
+2024-10-17 12:26:13,784 - INFO - Database connection established.
+2024-10-17 12:26:13,902 - INFO - Inserted 300 records for location 4000154 (batch 1).
+2024-10-17 12:27:38,541 - INFO - Database connection established.
+2024-10-17 12:27:38,659 - INFO - Inserted 300 records for location 4000155 (batch 1).
+2024-10-17 12:28:00,138 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 12:28:00,186 - INFO - Database connection established.
+2024-10-17 12:28:00,232 - INFO - Inserted 41 records for location 4000156 (batch 1).
+2024-10-17 12:28:10,998 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 12:28:11,030 - INFO - Database connection established.
+2024-10-17 12:28:11,058 - INFO - Inserted 17 records for location 4000157 (batch 1).
+2024-10-17 12:28:48,747 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 12:28:48,796 - INFO - Database connection established.
+2024-10-17 12:28:48,862 - INFO - Inserted 106 records for location 4000158 (batch 1).
+2024-10-17 12:30:13,607 - INFO - Database connection established.
+2024-10-17 12:30:13,733 - INFO - Inserted 300 records for location 4000159 (batch 1).
+2024-10-17 12:30:24,537 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 12:30:24,584 - INFO - Database connection established.
+2024-10-17 12:30:24,621 - INFO - Inserted 13 records for location 4000160 (batch 1).
+2024-10-17 12:30:51,643 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 12:30:51,691 - INFO - Database connection established.
+2024-10-17 12:30:51,744 - INFO - Inserted 61 records for location 4000161 (batch 1).
+2024-10-17 12:31:18,610 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 12:31:18,658 - INFO - Database connection established.
+2024-10-17 12:31:18,714 - INFO - Inserted 62 records for location 4000162 (batch 1).
+2024-10-17 12:31:34,569 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:31:34,618 - INFO - Database connection established.
+2024-10-17 12:31:34,735 - INFO - Inserted 27 records for location 4000163 (batch 1).
+2024-10-17 12:31:45,299 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 12:31:45,347 - INFO - Database connection established.
+2024-10-17 12:31:45,389 - INFO - Inserted 20 records for location 4000164 (batch 1).
+2024-10-17 12:32:23,215 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 12:32:23,263 - INFO - Database connection established.
+2024-10-17 12:32:23,328 - INFO - Inserted 103 records for location 4000165 (batch 1).
+2024-10-17 12:33:21,493 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 12:33:21,544 - INFO - Database connection established.
+2024-10-17 12:33:21,631 - INFO - Inserted 181 records for location 4000166 (batch 1).
+2024-10-17 12:34:46,263 - INFO - Database connection established.
+2024-10-17 12:34:46,380 - INFO - Inserted 300 records for location 4000167 (batch 1).
+2024-10-17 12:35:13,235 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 12:35:13,284 - INFO - Database connection established.
+2024-10-17 12:35:13,335 - INFO - Inserted 68 records for location 4000168 (batch 1).
+2024-10-17 12:35:29,201 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:35:29,250 - INFO - Database connection established.
+2024-10-17 12:35:29,295 - INFO - Inserted 39 records for location 4000169 (batch 1).
+2024-10-17 12:35:45,358 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:35:45,407 - INFO - Database connection established.
+2024-10-17 12:35:45,454 - INFO - Inserted 37 records for location 4000170 (batch 1).
+2024-10-17 12:36:01,429 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:36:01,478 - INFO - Database connection established.
+2024-10-17 12:36:01,515 - INFO - Inserted 21 records for location 4000171 (batch 1).
+2024-10-17 12:37:25,775 - INFO - Database connection established.
+2024-10-17 12:37:25,891 - INFO - Inserted 300 records for location 4000172 (batch 1).
+2024-10-17 12:37:42,004 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:37:42,052 - INFO - Database connection established.
+2024-10-17 12:37:42,095 - INFO - Inserted 28 records for location 4000173 (batch 1).
+2024-10-17 12:38:19,958 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 12:38:20,008 - INFO - Database connection established.
+2024-10-17 12:38:20,079 - INFO - Inserted 109 records for location 4000174 (batch 1).
+2024-10-17 12:38:25,707 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 12:38:25,708 - WARNING - No data to insert for location 4000175.
+2024-10-17 12:39:07,963 - INFO - No more data found on page 7. Stopping search.
+2024-10-17 12:39:08,011 - INFO - Database connection established.
+2024-10-17 12:39:08,084 - INFO - Inserted 126 records for location 4000176 (batch 1).
+2024-10-17 12:40:32,968 - INFO - Database connection established.
+2024-10-17 12:40:33,060 - INFO - Inserted 300 records for location 4000177 (batch 1).
+2024-10-17 12:40:49,052 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 12:40:49,100 - INFO - Database connection established.
+2024-10-17 12:40:49,143 - INFO - Inserted 35 records for location 4000178 (batch 1).
+2024-10-17 12:42:15,341 - INFO - Database connection established.
+2024-10-17 12:42:15,461 - INFO - Inserted 300 records for location 4000179 (batch 1).
+2024-10-17 12:43:41,523 - INFO - Database connection established.
+2024-10-17 12:43:41,644 - INFO - Inserted 300 records for location 4000180 (batch 1).
+2024-10-17 12:45:07,783 - INFO - Database connection established.
+2024-10-17 12:45:07,877 - INFO - Inserted 300 records for location 4000181 (batch 1).
+2024-10-17 12:46:44,667 - INFO - Database connection established.
+2024-10-17 12:46:44,784 - INFO - Inserted 300 records for location 4000182 (batch 1).
+2024-10-17 12:48:10,736 - INFO - Database connection established.
+2024-10-17 12:48:10,861 - INFO - Inserted 300 records for location 4000183 (batch 1).
+2024-10-17 12:49:37,027 - INFO - Database connection established.
+2024-10-17 12:49:37,148 - INFO - Inserted 300 records for location 4000184 (batch 1).
+2024-10-17 12:51:02,387 - INFO - Database connection established.
+2024-10-17 12:51:02,512 - INFO - Inserted 300 records for location 4000185 (batch 1).
+2024-10-17 12:52:28,498 - INFO - Database connection established.
+2024-10-17 12:52:28,633 - INFO - Inserted 300 records for location 4000186 (batch 1).
+2024-10-17 12:53:54,736 - INFO - Database connection established.
+2024-10-17 12:53:54,868 - INFO - Inserted 300 records for location 4000187 (batch 1).
+2024-10-17 12:55:22,376 - INFO - Database connection established.
+2024-10-17 12:55:22,500 - INFO - Inserted 300 records for location 4000188 (batch 1).
+2024-10-17 12:56:48,778 - INFO - Database connection established.
+2024-10-17 12:56:48,907 - INFO - Inserted 300 records for location 4000189 (batch 1).
+2024-10-17 12:58:14,323 - INFO - Database connection established.
+2024-10-17 12:58:14,448 - INFO - Inserted 300 records for location 4000190 (batch 1).
+2024-10-17 12:59:39,279 - INFO - Database connection established.
+2024-10-17 12:59:39,399 - INFO - Inserted 300 records for location 4000191 (batch 1).
+2024-10-17 13:00:07,079 - ERROR - Error occurred on page 4: 403 Client Error: Forbidden for url: https://www.olx.co.id/api/relevance/v4/search?facet_limit=100&location=4000192&location_facet_limit=20&platform=web-desktop&relaxedFilters=True&spellcheck=True&page=4
+2024-10-17 13:00:07,117 - INFO - Database connection established.
+2024-10-17 13:00:07,157 - INFO - Inserted 80 records for location 4000192 (batch 1).
+2024-10-17 13:00:14,205 - ERROR - Error occurred on page 0: 403 Client Error: Forbidden for url: https://www.olx.co.id/api/relevance/v4/search?facet_limit=100&location=4000193&location_facet_limit=20&platform=web-desktop&relaxedFilters=True&spellcheck=True
+2024-10-17 13:00:14,205 - WARNING - No data to insert for location 4000193.
+2024-10-17 13:01:42,006 - INFO - Database connection established.
+2024-10-17 13:01:42,129 - INFO - Inserted 300 records for location 4000194 (batch 1).
+2024-10-17 13:03:07,574 - INFO - Database connection established.
+2024-10-17 13:03:07,695 - INFO - Inserted 300 records for location 4000195 (batch 1).
+2024-10-17 13:04:32,857 - INFO - Database connection established.
+2024-10-17 13:04:32,978 - INFO - Inserted 300 records for location 4000196 (batch 1).
+2024-10-17 13:05:57,675 - INFO - Database connection established.
+2024-10-17 13:05:57,804 - INFO - Inserted 300 records for location 4000197 (batch 1).
+2024-10-17 13:07:22,964 - INFO - Database connection established.
+2024-10-17 13:07:23,100 - INFO - Inserted 300 records for location 4000198 (batch 1).
+2024-10-17 21:30:02,838 - INFO - Starting the script...
+2024-10-17 21:31:34,979 - INFO - Database connection established.
+2024-10-17 21:31:35,114 - INFO - Inserted 300 records for location 4000001 (batch 1).
+2024-10-17 21:33:01,426 - INFO - Database connection established.
+2024-10-17 21:33:01,549 - INFO - Inserted 300 records for location 4000002 (batch 1).
+2024-10-17 21:34:29,623 - INFO - Database connection established.
+2024-10-17 21:34:29,776 - INFO - Inserted 300 records for location 4000003 (batch 1).
+2024-10-17 21:35:59,535 - INFO - Database connection established.
+2024-10-17 21:35:59,679 - INFO - Inserted 300 records for location 4000004 (batch 1).
+2024-10-17 21:37:26,730 - INFO - Database connection established.
+2024-10-17 21:37:26,861 - INFO - Inserted 300 records for location 4000005 (batch 1).
+2024-10-17 21:38:52,759 - INFO - Database connection established.
+2024-10-17 21:38:52,891 - INFO - Inserted 300 records for location 4000006 (batch 1).
+2024-10-17 21:42:29,235 - INFO - Database connection established.
+2024-10-17 21:42:29,364 - INFO - Inserted 300 records for location 4000007 (batch 1).
+2024-10-17 21:43:56,447 - INFO - Database connection established.
+2024-10-17 21:43:56,597 - INFO - Inserted 300 records for location 4000008 (batch 1).
+2024-10-17 21:45:24,692 - INFO - Database connection established.
+2024-10-17 21:45:24,812 - INFO - Inserted 300 records for location 4000009 (batch 1).
+2024-10-17 21:45:29,993 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 21:45:29,994 - WARNING - No data to insert for location 4000010.
+2024-10-17 21:46:56,299 - INFO - Database connection established.
+2024-10-17 21:46:56,419 - INFO - Inserted 300 records for location 4000011 (batch 1).
+2024-10-17 21:48:22,326 - INFO - Database connection established.
+2024-10-17 21:48:22,444 - INFO - Inserted 300 records for location 4000012 (batch 1).
+2024-10-17 21:49:48,567 - INFO - Database connection established.
+2024-10-17 21:49:48,689 - INFO - Inserted 300 records for location 4000013 (batch 1).
+2024-10-17 21:51:13,809 - INFO - Database connection established.
+2024-10-17 21:51:13,933 - INFO - Inserted 300 records for location 4000014 (batch 1).
+2024-10-17 21:52:39,715 - INFO - Database connection established.
+2024-10-17 21:52:39,845 - INFO - Inserted 300 records for location 4000015 (batch 1).
+2024-10-17 21:54:05,097 - INFO - Database connection established.
+2024-10-17 21:54:05,223 - INFO - Inserted 300 records for location 4000016 (batch 1).
+2024-10-17 21:55:30,510 - INFO - Database connection established.
+2024-10-17 21:55:30,648 - INFO - Inserted 300 records for location 4000017 (batch 1).
+2024-10-17 21:56:55,679 - INFO - Database connection established.
+2024-10-17 21:56:55,804 - INFO - Inserted 300 records for location 4000018 (batch 1).
+2024-10-17 21:58:20,769 - INFO - Database connection established.
+2024-10-17 21:58:20,894 - INFO - Inserted 300 records for location 4000019 (batch 1).
+2024-10-17 21:59:47,514 - INFO - Database connection established.
+2024-10-17 21:59:47,678 - INFO - Inserted 300 records for location 4000020 (batch 1).
+2024-10-17 22:01:14,358 - INFO - Database connection established.
+2024-10-17 22:01:14,527 - INFO - Inserted 300 records for location 4000021 (batch 1).
+2024-10-17 22:02:40,098 - INFO - Database connection established.
+2024-10-17 22:02:40,232 - INFO - Inserted 300 records for location 4000022 (batch 1).
+2024-10-17 22:04:05,709 - INFO - Database connection established.
+2024-10-17 22:04:05,838 - INFO - Inserted 300 records for location 4000023 (batch 1).
+2024-10-17 22:05:32,930 - INFO - Database connection established.
+2024-10-17 22:05:33,094 - INFO - Inserted 300 records for location 4000024 (batch 1).
+2024-10-17 22:06:58,196 - INFO - Database connection established.
+2024-10-17 22:06:58,285 - INFO - Inserted 300 records for location 4000025 (batch 1).
+2024-10-17 22:08:24,703 - INFO - Database connection established.
+2024-10-17 22:08:24,856 - INFO - Inserted 300 records for location 4000026 (batch 1).
+2024-10-17 22:09:52,035 - INFO - Database connection established.
+2024-10-17 22:09:52,179 - INFO - Inserted 300 records for location 4000027 (batch 1).
+2024-10-17 22:11:19,278 - INFO - Database connection established.
+2024-10-17 22:11:19,418 - INFO - Inserted 300 records for location 4000028 (batch 1).
+2024-10-17 22:12:46,005 - INFO - Database connection established.
+2024-10-17 22:12:46,148 - INFO - Inserted 300 records for location 4000029 (batch 1).
+2024-10-17 22:14:12,937 - INFO - Database connection established.
+2024-10-17 22:14:13,082 - INFO - Inserted 300 records for location 4000030 (batch 1).
+2024-10-17 22:15:39,345 - INFO - Database connection established.
+2024-10-17 22:15:39,500 - INFO - Inserted 300 records for location 4000031 (batch 1).
+2024-10-17 22:17:06,490 - INFO - Database connection established.
+2024-10-17 22:17:06,633 - INFO - Inserted 300 records for location 4000032 (batch 1).
+2024-10-17 22:18:31,926 - INFO - Database connection established.
+2024-10-17 22:18:32,053 - INFO - Inserted 300 records for location 4000033 (batch 1).
+2024-10-17 22:19:56,907 - INFO - Database connection established.
+2024-10-17 22:19:57,029 - INFO - Inserted 300 records for location 4000034 (batch 1).
+2024-10-17 22:21:22,642 - INFO - Database connection established.
+2024-10-17 22:21:22,766 - INFO - Inserted 300 records for location 4000035 (batch 1).
+2024-10-17 22:22:49,040 - INFO - Database connection established.
+2024-10-17 22:22:49,141 - INFO - Inserted 300 records for location 4000036 (batch 1).
+2024-10-17 22:24:14,154 - INFO - Database connection established.
+2024-10-17 22:24:14,272 - INFO - Inserted 300 records for location 4000037 (batch 1).
+2024-10-17 22:25:38,831 - INFO - Database connection established.
+2024-10-17 22:25:38,964 - INFO - Inserted 300 records for location 4000038 (batch 1).
+2024-10-17 22:27:04,350 - INFO - Database connection established.
+2024-10-17 22:27:04,496 - INFO - Inserted 300 records for location 4000039 (batch 1).
+2024-10-17 22:28:28,769 - INFO - Database connection established.
+2024-10-17 22:28:28,897 - INFO - Inserted 300 records for location 4000040 (batch 1).
+2024-10-17 22:29:53,068 - INFO - Database connection established.
+2024-10-17 22:29:53,161 - INFO - Inserted 300 records for location 4000041 (batch 1).
+2024-10-17 22:31:18,387 - INFO - Database connection established.
+2024-10-17 22:31:18,507 - INFO - Inserted 300 records for location 4000042 (batch 1).
+2024-10-17 22:32:43,349 - INFO - Database connection established.
+2024-10-17 22:32:43,471 - INFO - Inserted 300 records for location 4000043 (batch 1).
+2024-10-17 22:34:08,693 - INFO - Database connection established.
+2024-10-17 22:34:08,810 - INFO - Inserted 300 records for location 4000044 (batch 1).
+2024-10-17 22:35:33,747 - INFO - Database connection established.
+2024-10-17 22:35:33,866 - INFO - Inserted 300 records for location 4000045 (batch 1).
+2024-10-17 22:36:59,767 - INFO - Database connection established.
+2024-10-17 22:36:59,889 - INFO - Inserted 300 records for location 4000046 (batch 1).
+2024-10-17 22:38:25,542 - INFO - Database connection established.
+2024-10-17 22:38:25,662 - INFO - Inserted 300 records for location 4000047 (batch 1).
+2024-10-17 22:39:50,961 - INFO - Database connection established.
+2024-10-17 22:39:51,081 - INFO - Inserted 300 records for location 4000048 (batch 1).
+2024-10-17 22:41:16,547 - INFO - Database connection established.
+2024-10-17 22:41:16,670 - INFO - Inserted 300 records for location 4000049 (batch 1).
+2024-10-17 22:42:41,932 - INFO - Database connection established.
+2024-10-17 22:42:42,057 - INFO - Inserted 300 records for location 4000050 (batch 1).
+2024-10-17 22:44:06,812 - INFO - Database connection established.
+2024-10-17 22:44:06,942 - INFO - Inserted 300 records for location 4000051 (batch 1).
+2024-10-17 22:45:32,499 - INFO - Database connection established.
+2024-10-17 22:45:32,624 - INFO - Inserted 300 records for location 4000052 (batch 1).
+2024-10-17 22:46:57,744 - INFO - Database connection established.
+2024-10-17 22:46:57,869 - INFO - Inserted 300 records for location 4000053 (batch 1).
+2024-10-17 22:48:23,703 - INFO - Database connection established.
+2024-10-17 22:48:23,826 - INFO - Inserted 300 records for location 4000054 (batch 1).
+2024-10-17 22:49:49,500 - INFO - Database connection established.
+2024-10-17 22:49:49,622 - INFO - Inserted 300 records for location 4000055 (batch 1).
+2024-10-17 22:51:14,899 - INFO - Database connection established.
+2024-10-17 22:51:15,021 - INFO - Inserted 300 records for location 4000056 (batch 1).
+2024-10-17 22:52:39,798 - INFO - Database connection established.
+2024-10-17 22:52:39,921 - INFO - Inserted 300 records for location 4000057 (batch 1).
+2024-10-17 22:54:04,323 - INFO - Database connection established.
+2024-10-17 22:54:04,445 - INFO - Inserted 300 records for location 4000058 (batch 1).
+2024-10-17 22:55:29,253 - INFO - Database connection established.
+2024-10-17 22:55:29,378 - INFO - Inserted 300 records for location 4000059 (batch 1).
+2024-10-17 22:56:53,828 - INFO - Database connection established.
+2024-10-17 22:56:53,947 - INFO - Inserted 300 records for location 4000060 (batch 1).
+2024-10-17 22:58:18,439 - INFO - Database connection established.
+2024-10-17 22:58:18,559 - INFO - Inserted 300 records for location 4000061 (batch 1).
+2024-10-17 22:59:44,171 - INFO - Database connection established.
+2024-10-17 22:59:44,289 - INFO - Inserted 300 records for location 4000062 (batch 1).
+2024-10-17 23:01:09,152 - INFO - Database connection established.
+2024-10-17 23:01:09,275 - INFO - Inserted 300 records for location 4000063 (batch 1).
+2024-10-17 23:02:33,824 - INFO - Database connection established.
+2024-10-17 23:02:33,928 - INFO - Inserted 300 records for location 4000064 (batch 1).
+2024-10-17 23:03:58,438 - INFO - Database connection established.
+2024-10-17 23:03:58,564 - INFO - Inserted 300 records for location 4000065 (batch 1).
+2024-10-17 23:05:23,208 - INFO - Database connection established.
+2024-10-17 23:05:23,329 - INFO - Inserted 300 records for location 4000066 (batch 1).
+2024-10-17 23:06:48,008 - INFO - Database connection established.
+2024-10-17 23:06:48,131 - INFO - Inserted 300 records for location 4000067 (batch 1).
+2024-10-17 23:08:12,573 - INFO - Database connection established.
+2024-10-17 23:08:12,694 - INFO - Inserted 300 records for location 4000068 (batch 1).
+2024-10-17 23:09:37,052 - INFO - Database connection established.
+2024-10-17 23:09:37,145 - INFO - Inserted 300 records for location 4000069 (batch 1).
+2024-10-17 23:11:01,851 - INFO - Database connection established.
+2024-10-17 23:11:01,970 - INFO - Inserted 300 records for location 4000070 (batch 1).
+2024-10-17 23:12:26,815 - INFO - Database connection established.
+2024-10-17 23:12:26,934 - INFO - Inserted 300 records for location 4000071 (batch 1).
+2024-10-17 23:13:51,419 - INFO - Database connection established.
+2024-10-17 23:13:51,544 - INFO - Inserted 300 records for location 4000072 (batch 1).
+2024-10-17 23:15:15,765 - INFO - Database connection established.
+2024-10-17 23:15:15,905 - INFO - Inserted 300 records for location 4000073 (batch 1).
+2024-10-17 23:15:21,090 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 23:15:21,091 - WARNING - No data to insert for location 4000074.
+2024-10-17 23:16:46,579 - INFO - Database connection established.
+2024-10-17 23:16:46,704 - INFO - Inserted 300 records for location 4000075 (batch 1).
+2024-10-17 23:18:12,711 - INFO - Database connection established.
+2024-10-17 23:18:12,860 - INFO - Inserted 300 records for location 4000076 (batch 1).
+2024-10-17 23:19:36,971 - INFO - Database connection established.
+2024-10-17 23:19:37,073 - INFO - Inserted 300 records for location 4000077 (batch 1).
+2024-10-17 23:21:01,820 - INFO - Database connection established.
+2024-10-17 23:21:01,944 - INFO - Inserted 300 records for location 4000078 (batch 1).
+2024-10-17 23:22:28,143 - INFO - Database connection established.
+2024-10-17 23:22:28,294 - INFO - Inserted 300 records for location 4000079 (batch 1).
+2024-10-17 23:23:53,841 - INFO - Database connection established.
+2024-10-17 23:23:54,004 - INFO - Inserted 300 records for location 4000080 (batch 1).
+2024-10-17 23:24:30,630 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 23:24:30,679 - INFO - Database connection established.
+2024-10-17 23:24:30,748 - INFO - Inserted 118 records for location 4000081 (batch 1).
+2024-10-17 23:24:46,556 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 23:24:46,604 - INFO - Database connection established.
+2024-10-17 23:24:46,648 - INFO - Inserted 33 records for location 4000082 (batch 1).
+2024-10-17 23:26:11,032 - INFO - Database connection established.
+2024-10-17 23:26:11,145 - INFO - Inserted 300 records for location 4000083 (batch 1).
+2024-10-17 23:27:35,442 - INFO - Database connection established.
+2024-10-17 23:27:35,566 - INFO - Inserted 300 records for location 4000084 (batch 1).
+2024-10-17 23:27:40,573 - ERROR - Error occurred on page 0: HTTPSConnectionPool(host='www.olx.co.id', port=443): Max retries exceeded with url: /api/relevance/v4/search?facet_limit=100&location=4000085&location_facet_limit=20&platform=web-desktop&relaxedFilters=True&spellcheck=True (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7079d2ca90>: Failed to resolve 'www.olx.co.id' ([Errno -3] Temporary failure in name resolution)"))
+2024-10-17 23:27:40,573 - WARNING - No data to insert for location 4000085.
+2024-10-17 23:27:51,137 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:27:51,181 - INFO - Database connection established.
+2024-10-17 23:27:51,214 - INFO - Inserted 20 records for location 4000086 (batch 1).
+2024-10-17 23:29:00,197 - INFO - No more data found on page 12. Stopping search.
+2024-10-17 23:29:00,243 - INFO - Database connection established.
+2024-10-17 23:29:00,358 - INFO - Inserted 239 records for location 4000087 (batch 1).
+2024-10-17 23:29:21,652 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 23:29:21,699 - INFO - Database connection established.
+2024-10-17 23:29:21,746 - INFO - Inserted 54 records for location 4000088 (batch 1).
+2024-10-17 23:29:32,470 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:29:32,519 - INFO - Database connection established.
+2024-10-17 23:29:32,563 - INFO - Inserted 18 records for location 4000089 (batch 1).
+2024-10-17 23:29:58,832 - INFO - No more data found on page 4. Stopping search.
+2024-10-17 23:29:58,879 - INFO - Database connection established.
+2024-10-17 23:29:58,933 - INFO - Inserted 64 records for location 4000090 (batch 1).
+2024-10-17 23:31:18,915 - INFO - No more data found on page 14. Stopping search.
+2024-10-17 23:31:18,966 - INFO - Database connection established.
+2024-10-17 23:31:19,077 - INFO - Inserted 263 records for location 4000091 (batch 1).
+2024-10-17 23:31:50,503 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 23:31:50,551 - INFO - Database connection established.
+2024-10-17 23:31:50,605 - INFO - Inserted 85 records for location 4000092 (batch 1).
+2024-10-17 23:33:16,077 - INFO - Database connection established.
+2024-10-17 23:33:16,195 - INFO - Inserted 300 records for location 4000093 (batch 1).
+2024-10-17 23:33:26,877 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:33:26,925 - INFO - Database connection established.
+2024-10-17 23:33:26,961 - INFO - Inserted 10 records for location 4000094 (batch 1).
+2024-10-17 23:34:08,772 - INFO - No more data found on page 7. Stopping search.
+2024-10-17 23:34:08,821 - INFO - Database connection established.
+2024-10-17 23:34:08,896 - INFO - Inserted 124 records for location 4000095 (batch 1).
+2024-10-17 23:35:07,193 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 23:35:07,243 - INFO - Database connection established.
+2024-10-17 23:35:07,341 - INFO - Inserted 196 records for location 4000096 (batch 1).
+2024-10-17 23:36:00,098 - INFO - No more data found on page 9. Stopping search.
+2024-10-17 23:36:00,146 - INFO - Database connection established.
+2024-10-17 23:36:00,226 - INFO - Inserted 174 records for location 4000097 (batch 1).
+2024-10-17 23:36:10,920 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:36:10,968 - INFO - Database connection established.
+2024-10-17 23:36:11,003 - INFO - Inserted 4 records for location 4000098 (batch 1).
+2024-10-17 23:37:36,398 - INFO - Database connection established.
+2024-10-17 23:37:36,518 - INFO - Inserted 300 records for location 4000099 (batch 1).
+2024-10-17 23:38:45,645 - INFO - No more data found on page 12. Stopping search.
+2024-10-17 23:38:45,697 - INFO - Database connection established.
+2024-10-17 23:38:45,813 - INFO - Inserted 228 records for location 4000100 (batch 1).
+2024-10-17 23:40:10,148 - INFO - Database connection established.
+2024-10-17 23:40:10,232 - INFO - Inserted 300 records for location 4000101 (batch 1).
+2024-10-17 23:41:35,010 - INFO - Database connection established.
+2024-10-17 23:41:35,131 - INFO - Inserted 300 records for location 4000102 (batch 1).
+2024-10-17 23:41:56,166 - INFO - No more data found on page 3. Stopping search.
+2024-10-17 23:41:56,215 - INFO - Database connection established.
+2024-10-17 23:41:56,262 - INFO - Inserted 45 records for location 4000103 (batch 1).
+2024-10-17 23:43:18,825 - INFO - No more data found on page 13. Stopping search.
+2024-10-17 23:43:18,878 - INFO - Database connection established.
+2024-10-17 23:43:18,986 - INFO - Inserted 253 records for location 4000104 (batch 1).
+2024-10-17 23:44:43,716 - INFO - Database connection established.
+2024-10-17 23:44:43,839 - INFO - Inserted 300 records for location 4000105 (batch 1).
+2024-10-17 23:45:41,784 - INFO - No more data found on page 10. Stopping search.
+2024-10-17 23:45:41,833 - INFO - Database connection established.
+2024-10-17 23:45:41,923 - INFO - Inserted 182 records for location 4000106 (batch 1).
+2024-10-17 23:47:06,211 - INFO - Database connection established.
+2024-10-17 23:47:06,328 - INFO - Inserted 300 records for location 4000107 (batch 1).
+2024-10-17 23:47:38,579 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 23:47:38,627 - INFO - Database connection established.
+2024-10-17 23:47:38,685 - INFO - Inserted 84 records for location 4000108 (batch 1).
+2024-10-17 23:49:03,042 - INFO - Database connection established.
+2024-10-17 23:49:03,136 - INFO - Inserted 300 records for location 4000109 (batch 1).
+2024-10-17 23:49:34,806 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 23:49:34,855 - INFO - Database connection established.
+2024-10-17 23:49:34,914 - INFO - Inserted 90 records for location 4000110 (batch 1).
+2024-10-17 23:49:50,839 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 23:49:50,887 - INFO - Database connection established.
+2024-10-17 23:49:50,934 - INFO - Inserted 29 records for location 4000111 (batch 1).
+2024-10-17 23:50:23,180 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 23:50:23,230 - INFO - Database connection established.
+2024-10-17 23:50:23,298 - INFO - Inserted 97 records for location 4000112 (batch 1).
+2024-10-17 23:51:47,663 - INFO - Database connection established.
+2024-10-17 23:51:47,780 - INFO - Inserted 300 records for location 4000113 (batch 1).
+2024-10-17 23:51:58,425 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:51:58,469 - INFO - Database connection established.
+2024-10-17 23:51:58,504 - INFO - Inserted 16 records for location 4000114 (batch 1).
+2024-10-17 23:52:14,450 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 23:52:14,498 - INFO - Database connection established.
+2024-10-17 23:52:14,540 - INFO - Inserted 21 records for location 4000115 (batch 1).
+2024-10-17 23:52:30,593 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 23:52:30,642 - INFO - Database connection established.
+2024-10-17 23:52:30,686 - INFO - Inserted 21 records for location 4000116 (batch 1).
+2024-10-17 23:52:41,527 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:52:41,572 - INFO - Database connection established.
+2024-10-17 23:52:41,605 - INFO - Inserted 11 records for location 4000117 (batch 1).
+2024-10-17 23:52:52,402 - INFO - No more data found on page 1. Stopping search.
+2024-10-17 23:52:52,449 - INFO - Database connection established.
+2024-10-17 23:52:52,490 - INFO - Inserted 19 records for location 4000118 (batch 1).
+2024-10-17 23:53:08,936 - INFO - No more data found on page 2. Stopping search.
+2024-10-17 23:53:08,984 - INFO - Database connection established.
+2024-10-17 23:53:09,029 - INFO - Inserted 26 records for location 4000119 (batch 1).
+2024-10-17 23:53:14,376 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 23:53:14,377 - WARNING - No data to insert for location 4000120.
+2024-10-17 23:53:19,769 - INFO - No more data found on page 0. Stopping search.
+2024-10-17 23:53:19,769 - WARNING - No data to insert for location 4000121.
+2024-10-17 23:54:45,328 - INFO - Database connection established.
+2024-10-17 23:54:45,449 - INFO - Inserted 300 records for location 4000122 (batch 1).
+2024-10-17 23:56:09,839 - INFO - Database connection established.
+2024-10-17 23:56:09,957 - INFO - Inserted 300 records for location 4000123 (batch 1).
+2024-10-17 23:57:34,508 - INFO - Database connection established.
+2024-10-17 23:57:34,631 - INFO - Inserted 300 records for location 4000124 (batch 1).
+2024-10-17 23:58:06,293 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 23:58:06,343 - INFO - Database connection established.
+2024-10-17 23:58:06,413 - INFO - Inserted 99 records for location 4000125 (batch 1).
+2024-10-17 23:58:37,966 - INFO - No more data found on page 5. Stopping search.
+2024-10-17 23:58:38,006 - INFO - Database connection established.
+2024-10-17 23:58:38,049 - INFO - Inserted 87 records for location 4000126 (batch 1).
+2024-10-17 23:59:14,782 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 23:59:14,831 - INFO - Database connection established.
+2024-10-17 23:59:14,901 - INFO - Inserted 105 records for location 4000127 (batch 1).
+2024-10-17 23:59:51,962 - INFO - No more data found on page 6. Stopping search.
+2024-10-17 23:59:52,011 - INFO - Database connection established.
+2024-10-17 23:59:52,078 - INFO - Inserted 112 records for location 4000128 (batch 1).
