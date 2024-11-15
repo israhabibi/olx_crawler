@@ -7,9 +7,12 @@ from logging.handlers import TimedRotatingFileHandler
 from datetime import datetime
 import json
 import time
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Create a log directory if it doesn't exist
-LOG_DIR = "/home/isra/Project/olx_crawler/logs"
+LOG_DIR = "/home/gws/project/olx_crawler/logs"
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
 
@@ -40,11 +43,11 @@ HEADERS = {
 
 # Database parameters
 DB_PARAMS = {
-    "host": "gcp.local",
-    "database": "mydb",
-    "user": "myuser",
-    "password": "mypassword",
-    "port": "5432"
+    "host": os.getenv("DB_HOST"),
+    "database": os.getenv("DB_DATABASE"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("DB_PASSWORD"),
+    "port": os.getenv("DB_PORT", "3306")
 }
 
 # Retry settings

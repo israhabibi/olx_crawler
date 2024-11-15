@@ -1,6 +1,6 @@
 #!/bin/bash
 # Activate the virtual environment
-. /home/isra/loc_env/bin/activate
+. /home/gws/loc_env/bin/activate
 
 # Run the Python script
-python /home/isra/Project/olx_crawler/empty_query.py
+python /home/gws/project/olx_crawler/empty_query.py
