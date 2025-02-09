@@ -18,7 +18,7 @@ if not os.path.exists(LOG_DIR):
 
 # Configure logging with TimedRotatingFileHandler
 log_file_path = os.path.join(LOG_DIR, 'olx_data_fetch.log')
-handler = TimedRotatingFileHandler(log_file_path, when="midnight", interval=1, backupCount=7)
+handler = TimedRotatingFileHandler(log_file_path, when="midnight", interval=7, backupCount=30)
 handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
 
 # Set up the logging
